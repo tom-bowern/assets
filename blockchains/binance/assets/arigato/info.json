@@ -1,0 +1,11 @@
+{
+    "name": "Arigato",
+    "website": "https://www.arigatotoken.com/",
+    "description": "Arigato integrates with video games to reward players",
+    "explorer": "https://bscscan.com/token/0x5cfec8ac17d7f4489942e5e3264b233d8e69aefc",
+    "type": "BEP20",
+    "symbol": "Arigato",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5cfec8ac17d7f4489942e5e3264b233d8e69aefc"
+}
